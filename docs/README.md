@@ -4,3 +4,5 @@ Original logo and MK1 cabinet art credit to [John Tobias](https://twitter.com/th
 ![](../mk1-logo.svg)
 
 ![](../mk2-logo.svg)
+
+<p align="center"><img src="../mk-dragon-bk.svg"></p>
