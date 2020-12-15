@@ -8,7 +8,5 @@ Original logo and MK1 cabinet art credit to [John Tobias](https://twitter.com/th
 <p align="center"><img src="../mk-dragon-bk.svg"></p>
 
 ## HD Render
+Modelled in SolidWorks and rendered in Keyshot 9.
 ![](../mk-dragon.render.jpg)
-
-
-
